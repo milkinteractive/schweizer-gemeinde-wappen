@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Greppen</title>
+  <desc>Wappen der Schweizer Gemeinde Greppen, Kanton Luzern</desc>
+  <!-- Farben nach Aargauer Farbkarte, gemäss Staatsarchiv Luzern -->
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 2,2 H 98 V 62.5 a 48,48 0 0,1 -96,0 z" /> </clipPath>
+  </defs>
+  <path d="M 1,1 H 99 V 62.5 a 49,49 0 0,1 -98,0 z" stroke="black" stroke-width="2" fill="white" />
+  <g clip-path="url(#cpSchild)">
+    <path d="M 0,20 l 100,86 M 100,20 L 0,106" stroke="black" stroke-width="20" />
+    <path d="M 0,20 l 100,86 M 100,20 L 0,106" stroke="#0093dd" stroke-width="18" />
+  </g>
+  <path d="M 2,1.5 H 98.5 V 22 H 2" stroke="black" stroke-width="1" fill="#f00000" />
+</svg>

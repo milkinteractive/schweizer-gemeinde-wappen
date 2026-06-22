@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Hitzkirch</title>
+  <desc>Wappen der Schweizer Gemeinde Hitzkirch, Kanton Luzern</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 98,2 V 62.5 a 48,48 0 0,1 -47.5,48 V 2 z"/> </clipPath>
+  </defs>
+  <path d="M 0,0 H 100 V 62.5 A 50,50 0 0,1 0,62.5"/>
+  <path d="M 2,2 V 62.5 a 48,48 0 0,0 47.5,48 V 2" fill="#0093dd"/>
+  <path d="M 61,0 A 150,150 0 0,1 71,49 100,100 0 0,1 50,44 V 60 A 100,100 0 0,1 71,55 150,150 0 0,1 59,112 H 89 A 150,150 0 0,1 77,55 100,100 0 0,1 100,61 V 43 A 100,100 0 0,1 77,49 150,150 0 0,1 87,0 h 13 V 112 H 50 V 0" fill="white" clip-path="url(#cpSchild)"/>
+</svg>

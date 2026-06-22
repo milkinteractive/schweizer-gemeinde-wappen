@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="208.86046"
+   height="244.65999"
+   id="svg2780"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Cortaillod-blazon.svg">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3287"
+     inkscape:window-height="1417"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="61.567956"
+     inkscape:cy="116.18586"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2780"
+     inkscape:measure-start="104.255,149.787"
+     inkscape:measure-end="104.255,126.383"
+     showguides="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs2782" />
+  <path
+     id="path4212-6"
+     style="fill:#009645;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 1.000033,149.10355 V 0.99999834 c 68.953472,0 137.906947,0 206.860417,0 V 149.10355 c 0,51.44535 -51.71515,94.56785 -103.43021,94.56785 -51.71506,0 -103.430207,-43.1225 -103.430207,-94.56785 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sccscs" />
+  <path
+     id="path5763-1-7-3"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00157475;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
+     d="m 11.846862,86.275659 c 4.84881,6.566008 11.604495,13.254808 20.168645,13.254808 h 55.72421 V 35.002833 c 0,-9.785432 -6.78081,-17.577095 -13.34682,-23.117371 h 30.037343 30.03734 c -6.56601,5.540276 -13.34682,13.331939 -13.34682,23.117371 v 64.52763 h 55.72421 c 8.56415,0 15.31984,-6.688794 20.16865,-13.254804 v 32.214121 32.21413 c -4.84881,-6.56601 -11.6045,-13.25481 -20.16865,-13.25481 h -55.72421 v 64.52763 c 0,9.78543 6.78081,17.5771 13.34682,23.11737 H 104.43023 74.39289 c 6.56601,-5.54027 13.34682,-13.33194 13.34682,-23.11737 V 137.4491 H 32.0155 c -8.56415,0 -15.319834,6.6888 -20.168644,13.25481 l 3e-6,-32.21413 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cscscccscscccscscccscsccc" />
+  <path
+     id="path5780-3"
+     style="opacity:1;fill:#feeb00;fill-opacity:1;stroke:#000000;stroke-width:1.00157475;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
+     d="M 164.71687,69.927129 C 123.30106,45.253156 74.495418,68.56281 74.495418,118.48978 c 0,49.92697 50.277472,72.28472 90.221452,48.56265 C 117.12045,222.96715 37.152694,193.81069 37.152693,118.48978 37.152692,43.168871 117.12045,14.012409 164.71687,69.927129 Z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="czczc" />
+  <path
+     id="path5878-7"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.00157475;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
+     d="M 164.71687,167.05243 C 121.21134,203.9315 55.824057,183.42656 55.824057,118.48978 c 0,-64.936777 65.415453,-85.724402 108.892813,-48.562651"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="czc" />
+</svg>

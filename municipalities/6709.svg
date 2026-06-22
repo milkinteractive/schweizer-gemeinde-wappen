@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="208.86046"
+   height="244.65999"
+   id="svg2780"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Courroux-blazon.svg">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3287"
+     inkscape:window-height="1417"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="-148.28675"
+     inkscape:cy="54.140599"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2780"
+     inkscape:measure-start="104.255,149.787"
+     inkscape:measure-end="104.255,126.383"
+     showguides="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true">
+    <sodipodi:guide
+       position="49.361702,126.17021"
+       orientation="0,45.957446"
+       id="guide7903"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="104.43023,254.05894"
+       orientation="-73.123884,0"
+       id="guide7904"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="104.43023,126.17021"
+       orientation="-117.48978,103.43803"
+       id="guide7908"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.000033,243.65999"
+       orientation="117.48978,103.4302"
+       id="guide7912"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2782" />
+  <path
+     id="path4212-6-2"
+     style="fill:#cc2918;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 1.000033,149.10355 V 0.99999834 H 207.86826 V 149.10355 c 0,51.44535 -51.72296,94.56785 -103.43802,94.56785 -51.71506,0 -103.430207,-43.1225 -103.430207,-94.56785 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sccscs" />
+  <path
+     style="opacity:1;fill:#feeb00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
+     d="M 1.000033,0.99999834 V 26.999993 l 80.540661,91.488797 -66.700755,75.76186 c 5.741364,9.53553 14.123301,17.72658 23.334782,25.49526 l 66.255509,-75.25613 66.25397,75.26007 c 9.55645,-7.68418 17.40262,-16.15039 23.33692,-25.49083 L 127.31977,118.49076 207.86826,27 V 0.99999834 H 184.97785 L 104.43023,92.489776 23.888709,0.99999834 Z"
+     id="path7989"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccc" />
+  <path
+     id="path4212-6-0"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 1.000033,149.10355 V 0.99999834 H 207.86826 V 149.10355 c 0,51.44535 -51.72296,94.56785 -103.43802,94.56785 -51.71506,0 -103.430207,-43.1225 -103.430207,-94.56785 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sccscs" />
+  <path
+     style="opacity:1;fill:#feeb00;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
+     d="m 129.80406,30.223423 -19.38705,0.0044 -5.98678,-18.412914 -5.986786,18.41291 -19.387047,-0.0044 15.687016,11.375457 -5.995072,18.41021 15.681889,-11.382488 15.68189,11.382488 -5.99508,-18.41021 z"
+     id="path12002-8"
+     inkscape:connector-curvature="0" />
+</svg>

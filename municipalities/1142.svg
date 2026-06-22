@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="585" viewBox="0,0 100,112.5" stroke="black">
+  <title>Wappen von Roggliswil</title>
+  <desc>Wappen der Schweizer Gemeinde Roggliswil, Kanton Luzern</desc>
+<clipPath id="cpSchild"><path d="m1,1V62.5a49,49 0 0,0 98,0V1"/></clipPath>
+<g clip-path="url(#cpSchild)">
+<path d="m0,0h100v113H0" fill="#FFF"/>
+<path d="m0,0v38L32,0H59L0,70V102L86,0H113L0,134V166L140,0" stroke-width="1" fill="#0093dd"/>
+</g>
+<path d="M1,1V62.5a49,49 0 0,0 98,0V1z" stroke-width="2" fill="none"/>
+</svg>

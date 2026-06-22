@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Werthenstein</title>
+  <desc>Wappen der Schweizer Gemeinde Werthenstein, Kanton Luzern</desc>
+  <defs>
+    <clipPath id="cpSchild"> <path d="M 2,2 V 62.5 a 48,48 0 0,0 96,0 V 2 z" /> </clipPath>
+  </defs>
+  <path d="M 1,1 V 62.5 a 49,49 0 0,0 98,0 V 1 z" stroke="black" stroke-width="2" fill="white" />
+  <path d="M -4,41.5 L 50,2.5 104,41.5 104,67.5 50,28.5 -4,67.5 -4,93.5 50,54.5 104,93.5 104,119.5 50,80.5 -4,119.5" stroke="black" stroke-width="1" fill="#f00000" clip-path="url(#cpSchild)" />
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="208.86046"
+   height="244.65999"
+   id="svg2780"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Lichtensteig-blazon.svg">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3259"
+     inkscape:window-height="1417"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-156.1186"
+     inkscape:cy="118.25023"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2780"
+     inkscape:measure-start="104.255,149.787"
+     inkscape:measure-end="104.255,126.383"
+     showguides="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true" />
+  <defs
+     id="defs2782" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cc2918;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4212"
+     d="m 1,1 3.761095,158.00304 c 2.686489,112.85918 196.651755,112.85918 199.338255,0 L 207.86045,1 Z" />
+  <path
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
+     d="m 104.43024,1 v 242.64741 c 39.16343,-0.4626 90.65966,-18.3933 98.93811,-74.92203 L 207.86048,1 Z"
+     id="path6029"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#fed71c;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4779"
+     d="m 117.13445,14.004807 c -30.661798,0.382837 -52.808336,41.973205 -52.808336,54.084874 0,12.216086 7.794208,27.146848 15.451074,39.606559 -11.330788,9.39699 -19.124996,19.83807 -19.124996,30.55761 0,12.4945 8.274911,22.90079 17.09919,22.90079 7.519522,0 9.47666,-5.32495 11.15911,-9.77982 0.41203,-1.14852 -1.098744,-3.02792 -2.060146,-4.00242 -1.167413,3.61958 -2.746855,8.21366 -9.098964,8.21366 -6.214767,0 -9.373651,-6.82151 -9.373651,-15.34841 0,-8.84012 6.111758,-16.98417 16.858839,-23.28364 7.759874,11.48521 17.85458,25.51107 17.85458,40.96389 0,6.75191 -1.64812,13.295 -6.558129,18.51555 l -12.360861,0.0696 c -5.871406,0.0348 -9.339316,2.19263 -11.433797,6.19505 l -11.399457,21.9263 c -0.92706,1.77499 -1.579442,3.54997 -1.579442,5.32496 0,3.89801 3.364902,7.79602 7.553857,7.79602 3.708257,0 4.772667,-1.98381 5.081687,-4.24604 -2.815529,-0.69608 -6.352109,-1.25293 -5.528051,-4.59409 2.300493,-9.64061 8.068895,-8.6661 13.32226,-8.6661 20.155073,0.0348 33.442993,11.79843 46.421893,24.46696 l 26.12948,-35.91737 -4.60098,-5.81221 -10.98744,11.72883 c -9.47665,-9.22294 -19.50268,-17.15817 -32.72193,-17.74983 9.1333,-11.4852 16.85883,-23.10962 15.89744,-38.70165 -0.99574,-15.2092 -6.07743,-28.64341 -12.46387,-41.868797 16.75583,-14.234694 36.22418,-33.655134 36.22418,-53.423611 0,-17.506236 -7.24483,-29.200262 -26.95354,-28.956635 z m -15.89744,15.731248 c 9.27064,0.03479 26.91921,11.241584 26.91921,25.89392 0,9.675412 -12.53254,24.397359 -23.51997,32.924253 L 91.691682,57.474567 C 90.318258,54.203025 89.803219,50.861872 89.597208,47.03347 89.288182,40.525191 91.554339,29.70125 101.23701,29.736055 Z" />
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="585" viewBox="0,0 100,112.5">
+  <title>Wappen von Altbüron</title>
+  <desc>Wappen der Schweizer Gemeinde Altbüron, Kanton Luzern</desc>
+  <g stroke="black" stroke-width="1" fill="#094">
+    <path d="M 1,1 V 62.5 a 49,49 0 0,0 98,0 V 1 z" stroke-width="2" fill="#fff"/>
+    <path d="M 50,48 L 90.773,88.773 a 48.5,48.5 0 0,1 -81.546,0" fill="#f00000"/>
+    <path d="M 50,111 C 8,110 30,76 43,97 33,74 67,74 57,97 70,76 92,110 50,111"/>
+    <path d="M 50,48 L 9.227,88.773 A 48.5,48.5 0 0,1 3.539,76.461 L 43.8,36.2 A 10,9.5 0 1,1 40.71,19.71 10,10 0 1,1 59.29,19.71 10,9.5 0 1,1 56.2,36.2 L 96.461,76.461 A 48.5,48.5 0 0,1 90.773,88.773 z"/>
+  </g>
+</svg>

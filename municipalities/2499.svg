@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 120 136"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="CHE Stüsslingen COA.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>salzstreuer</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="36.558869"
+     inkscape:cy="7.4038978"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28" />
+  <title
+     id="title2">salzstreuer</title>
+  <g
+     style="fill:none;stroke-width:1.00258136"
+     id="g952"
+     transform="matrix(1,0,0,0.99485721,45.336615,27.79128)">
+    <path
+       id="path912"
+       d="M -43.832458,-26.418888 H 73.159275 V 52.37614 c 0,30.313378 -26.189436,54.88729 -58.495866,54.88729 -32.306432,0 -58.495867,-24.573912 -58.495867,-54.88729 z"
+       inkscape:connector-curvature="0"
+       style="fill:#0093dd;fill-opacity:1;stroke:#000000;stroke-width:3.00774407;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path914"
+       d="M 54.852861,66.664185 43.351191,58.112889 31.849034,66.664185 36.255313,52.809096 24.753157,44.257801 h 14.220218 l 4.377816,-13.884841 4.406925,13.884841 h 14.191108 l -11.501671,8.551295 z"
+       inkscape:connector-curvature="0"
+       style="fill:#fcdb00;fill-opacity:1;stroke:#000000;stroke-width:1.00258136;stroke-opacity:1" />
+    <path
+       id="path916"
+       d="m -2.0635893,66.664185 -11.9816627,-8.558449 -12.011418,8.558449 4.601477,-13.866469 -12.011581,-8.558449 h 14.820207 l 4.601315,-13.866307 4.571559,13.866307 H 5.3465141 l -11.9816618,8.558449 z"
+       inkscape:connector-curvature="0"
+       style="fill:#fcdb00;fill-opacity:1;stroke:#000000;stroke-width:1.00258136;stroke-opacity:1" />
+    <path
+       id="path918"
+       d="M 26.163596,22.124874 14.152177,13.543664 2.170516,22.124874 6.7420742,8.2400334 -5.2395874,-0.31142467 H 9.58062 L 14.152177,-14.166514 18.753492,-0.31142467 H 33.573699 L 21.562119,8.2400334 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#fcdb00;fill-opacity:1;stroke:#000000;stroke-width:1.00258136;stroke-opacity:1" />
+  </g>
+</svg>
