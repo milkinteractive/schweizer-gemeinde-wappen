@@ -1,4 +1,4 @@
-# Schweizer Wappen
+# Schweizer Gemeinde und Kantons Wappen
 
 Sammlung aller Schweizer Wappen als SVG — 26 Kantone und 2'100+ Gemeinden.
 
